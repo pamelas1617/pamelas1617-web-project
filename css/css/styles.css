@@ -1,0 +1,89 @@
+body {
+    background-color: #3B5998;
+    margin-left: 20px;
+    margin-right: 20px;
+    transition:ease-in-out 1s;
+}
+
+h1 {
+    color: white;
+    font-size: 48px;
+    text-shadow: 2px 2px 5px black;
+    font-family: Georgia, "Times New Roman", serif;
+}
+
+h2 {
+    color: white;
+    font-size: 24px;
+    margin-left:20px;
+    font-family: Georgia, "Times New Roman", serif;
+
+}
+
+nav {
+    margin-left:20px;
+}
+
+img {
+    padding: 30px;
+    margin-left: 20px;
+    width: 400px;
+}
+
+h3 {
+    color: white;
+    font-size: 20px;
+    font-family: Georgia, "Times New Roman", serif;
+
+}
+
+.first {
+    color: white;
+    font-size: 20px;
+    margin-right:500px;
+    font-family: Georgia, "Times New Roman", serif;
+
+}
+
+.second {
+    color: white;
+    font-size: 20px;  
+    font-family: Georgia, "Times New Roman", serif;
+  
+}
+
+ul li {
+    font-size:22px;
+    transition: font-size 0.3s ease-in-out;
+    color: white;
+    font-family: Georgia, "Times New Roman", serif;
+
+}
+
+ul li:hover {
+    transition: font-size 0.3s ease-in-out;
+    font-size: 30px;
+
+}
+
+.third {
+    color: white;
+    font-size: 20px;
+    margin-right:500px;
+    font-family: Georgia, "Times New Roman", serif;
+
+}
+
+table {
+    font-size: 20px;
+    color:white;
+    font-family: Georgia, "Times New Roman", serif;
+
+}
+
+.fourth {
+    color: white;
+    font-size: 20px;
+    font-family: Georgia, "Times New Roman", serif;
+
+}
