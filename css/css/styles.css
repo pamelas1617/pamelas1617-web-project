@@ -5,6 +5,10 @@ body {
     transition:ease-in-out 1s;
 }
 
+nav li a {
+    color: pink;
+}
+
 h1 {
     color: white;
     font-size: 48px;
@@ -86,4 +90,7 @@ table {
     font-size: 20px;
     font-family: Georgia, "Times New Roman", serif;
 
+}
+.fourth a {
+    color: pink;
 }
