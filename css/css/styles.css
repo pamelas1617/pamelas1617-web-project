@@ -94,3 +94,64 @@ table {
 .fourth a {
     color: pink;
 }
+
+@media (max-width: 600px) {
+
+    body {
+        padding: 10px;
+        margin: 0;
+        font-size: 14px;
+    }
+
+    h1 {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    h2, h3 {
+        text-align: center;
+    }
+
+    nav ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0;
+    }
+
+    nav ul li {
+        margin: 8px 0;
+    }
+
+    img {
+        margin-left: -10px;
+        padding: 0px;
+    }
+
+    .first, .third {
+        max-width: 100%;
+        margin: 10px;
+        font-size: 16px;
+        text-align: justify;
+    }
+
+    table {
+        width: 100%;
+        font-size: 12px;
+        display: block;
+        overflow-x: auto;
+    }
+
+    ul li {
+        font-size: 18px;
+    }
+
+    ul li:hover {
+        font-size: 20px;
+    }
+
+    input, button {
+        width: 100%;
+        margin-top: 5px;
+    }
+}
